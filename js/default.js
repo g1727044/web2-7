@@ -1,6 +1,6 @@
 // 答えを用意
-var number=Math.floor(Math.random()*3);
-var answer=parseInt(window.prompt('数当てゲーム。0~2の数字を入力してください！'));
+var number = Math.floor(Math.random()*3);
+var answer = parseInt(window.prompt('数当てゲーム。0~2の数字を入力してください！'));
 
 var message;
 if(answer === number){
@@ -15,4 +15,4 @@ if(answer === number){
 
 // 結果を表示
 document.getElementById('choice'),textContent = message;
-window.alert('こんにちは世界！')
+window.alert('choice！')
