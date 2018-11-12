@@ -15,3 +15,4 @@ if(answer === number){
 
 // 結果を表示
 document.getElementById('choice'),textContent = message;
+window.alert('こんにちは世界！')
