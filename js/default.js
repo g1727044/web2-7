@@ -14,4 +14,4 @@ message='0~2の数字を入力してください';
 }
 
 // 結果を表示
-document.getElementById('chouce'),textContent=message;
+document.getElementById('choice'),textContent=message;
